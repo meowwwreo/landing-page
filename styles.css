@@ -73,3 +73,15 @@ a:hover, a:visited, a:link, a:active {
     height: 250px;
     width: 550px;
 }
+
+.container-two {
+    display: flex;
+    background-color: #f9faf8;
+    padding: 0 100px 150px 100px;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
