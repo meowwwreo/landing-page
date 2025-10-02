@@ -33,5 +33,47 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .main {
+    display: flex;
+    padding: 0 100px 50px 100px;
+    justify-content: space-between;
+}
+
+#main-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+#subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 0;
+}
+
+.button {
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 25px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    height: 35px;
+    width: 110px;
+    border: none;
+    border-radius: 5px;
+}
+
+.align-left {
     
+}
+
+.align-right {
+    padding-top: 100px;
+}
+
+img {
+    height: 250px;
+    width: 550px;
 }
