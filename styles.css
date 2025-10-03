@@ -114,3 +114,28 @@ a:hover, a:visited, a:link, a:active {
     text-align: center;
     color: #4f4f4f;
 }
+
+.container-three {
+    background-color: #e5e7eb;
+}
+
+.blockquote {
+    display: flex;
+    justify-content: center;
+    padding: 100px 100px 0 100px;
+    margin: 0;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: justify;
+}
+
+.thor {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 260px 100px 260px;
+    font-size: 24px;
+    font-weight: 900;
+    color: #1f2937;
+}
